@@ -1,0 +1,4 @@
+.holder{
+    display: inline-flex;
+    flex-flow: row wrap;
+}
